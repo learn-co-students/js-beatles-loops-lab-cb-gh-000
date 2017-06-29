@@ -33,4 +33,5 @@ function iLoveTheBeatles(numb){
     res[i] = "I love the Beatles!"
     i++
   } while(numb < 15 && i <= numb)
+  return res
 }
